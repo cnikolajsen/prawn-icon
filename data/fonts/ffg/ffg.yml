@@ -13,4 +13,4 @@ ffg:
   success: "\uf073"
   failure: "\uf066"
   despair: "\uf079"
-  triumph: "\uf078"
+  triumph: "\x78"
